@@ -1,0 +1,11 @@
+# Core ML libraries
+ultralytics>=8.3.0
+torch==2.6.0
+torchvision
+numpy
+
+# Image processing
+opencv-python
+
+# GPU Monitoring (Replaces pynvml)
+nvidia-ml-py
