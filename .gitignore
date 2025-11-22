@@ -1,3 +1,8 @@
+# Modelos do yolo (pytorch)
+*.pt
+
+# Pre-set do github de .gitignore (python)
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
